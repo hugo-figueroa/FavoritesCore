@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">favorites-core</string>
+
+    <!--Error -->
+    <string name="fc_network_error">Error, por favor verifíca tu conexión a internet.</string>
+    <string name="fc_error_serialization">Error, la respuesta no tiene un formato adecuado.</string>
+    <string name="fc_error_unknown">Ocurrio un error desconocido.</string>
+    <string name="fc_error_bad_request">Error, la solicitud no cumple con la información requerida para esta petición.</string>
+    <string name="fc_error_unauthorized">Error, la solicitud no cuenta con los privilegios necesarios.</string>
+    <string name="fc_error_not_found">Error, el recurso solicitado no ha sido encontrado.</string>
+    <string name="fc_server_error">Error contactando el servidor, intente de nuevo más tarde.</string>
+
+    <!-- Favorites -->
+    <string name="fc_error_favorites">No se pudo obtener la información de favoritos.</string>
+</resources>
