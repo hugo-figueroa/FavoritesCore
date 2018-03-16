@@ -87,7 +87,7 @@ public class Favorites {
         this.products = products;
     }
 
-    class Owner {
+    public class Owner {
         private String name;
         private String email;
         private String linioId;
@@ -117,7 +117,7 @@ public class Favorites {
         }
     }
 
-    class Products {
+    public class Products {
         private int id;
         private String name;
         private int wishListPrice;
